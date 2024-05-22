@@ -9,7 +9,7 @@ function App() {
       alignItems: 'center',
       height: '75vh', // assuming you want to center it in the whole viewport height
     }}>
-      <div style={{ marginBottom: '10px' }}>
+      <div style={{ marginBottom: '10px', marginTop: '20px' }}>
       <a
                 href="https://codemarc.net/miracle/doc/#/"
                 target="_blank"
